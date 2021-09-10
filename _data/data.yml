@@ -27,24 +27,36 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B1 - MCER # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
       link: # dejar en blanco
 
+    - ITEM: Patience
+      link:
+
     - item: Team Work
       link: # dejar en blanco
 
+    - item: Accountability
+      link:
+
     - item: Time Management
       link: # dejar en blanco
+    
+    - item: Adaptability
+      link:
+    
+    - item: Problem solving
+      link:
+    
+    - item: Perseverance
+      link: 
 
 # Registra aquí un resumen de tu perfil
 career-profile:
