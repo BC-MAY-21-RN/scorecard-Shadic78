@@ -17,7 +17,8 @@ Puedes modificar el archivo directamente desde aquí en GitHub o descargarlo en 
 3. En `source` selecciona la rama `master`
 4. En el archivo `_config.yml` modifica el campo `baseurl:` con la dirección que tu GitHub Pages generó.
 
-Con esto se publicará tu repositorio y en esa dirección podrás revisar las actualizaciones que hagas. Es importante que cada que hagas una modificación revises como se actualiza tu página ya que podrías generar algunos errores.
+Con esto se publicará tu repositorio y en esa dirección podrás revisar las actualizaciones que hagas. Es importante que cada que hagas 
+una modificación revises como se actualiza tu página ya que podrías generar algunos errores.
 
 ## Nombre
 
@@ -46,7 +47,9 @@ Con esto se publicará tu repositorio y en esa dirección podrás revisar las ac
 1. Ubica el apartado `interests`.
 2. Agrega un soft skill en cada `item`.
   
-Los Soft Skills son competencias o habilidades sociales que son fundamentales para relacionarse con otras personas ya sea en la vida diaria o en el trabajo, como por ejemplo la comunicación, el trabajo en equipo, adaptabilidad, creatividad, pensamiento creativo, solución de problemas, confianza, administración del tiempo, personas o tareas, colaboración, etc.
+Los Soft Skills son competencias o habilidades sociales que son fundamentales para relacionarse con otras personas ya sea en la vida 
+diaria o en el trabajo, como por ejemplo la comunicación, el trabajo en equipo, adaptabilidad, creatividad, pensamiento creativo, 
+solución de problemas, confianza, administración del tiempo, personas o tareas, colaboración, etc.
 
 Estas son algunas de las soft skills que más valoran los empleadores:
 
@@ -61,9 +64,14 @@ Estas son algunas de las soft skills que más valoran los empleadores:
 1. Ubica el apartado `career-profile`.
 2. En el campo `summary` escribe un resumen de tu perfil, por ejemplo:
 
->I am a person passionate about technology and I love programming, I am fascinated by areas such as robotics, IoT, artificial intelligence, and its application in agriculture. I am an autodidact programmer, I like to learn new things. I love nature and coffee.
+>I am a person passionate about technology and I love programming, I am fascinated by areas such as robotics, IoT, artificial intelligence, 
+and its application in agriculture. I am an autodidact programmer, I like to learn new things. I love nature and coffee.
 
->I am a Computer Systems Engineering student. I love learning about programming and improving my work through the use of best practices and logical thinking. I am a proactive, diligent person with a great disposition for teamwork. Sharing knowledge and self-learning are things that I enjoy. My biggest passion is technology, which I think can help us all to become a better person, friend, worker, and a productive member of society. Currently, I want to become a Senior Developer at an innovative company here, in Mexico, where I can get the opportunity to be creative and solve problems people struggle with every day.
+>I am a Computer Systems Engineering student. I love learning about programming and improving my work through the use of best practices and 
+logical thinking. I am a proactive, diligent person with a great disposition for teamwork. Sharing knowledge and self-learning are things that 
+I enjoy. My biggest passion is technology, which I think can help us all to become a better person, friend, worker, and a productive member of 
+society. Currently, I want to become a Senior Developer at an innovative company here, in Mexico, where I can get the opportunity to be 
+creative and solve problems people struggle with every day.
 
 ## Educación
 
