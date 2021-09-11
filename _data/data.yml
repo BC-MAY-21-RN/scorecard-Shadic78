@@ -115,6 +115,15 @@ skills:
 
     - name: Git
       level: 40%
+    
+    - name: ReactJS
+      level: 40%
+    
+    - name: React Native
+      level: 20%
+    
+    - name: Angular
+      level: 20%
 
 # NO MODIFICAR
 footer: >
