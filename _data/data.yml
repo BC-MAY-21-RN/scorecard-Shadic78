@@ -80,7 +80,7 @@ educationcomplete:
 experiences:
 
   - role: BrightCoder
-    time: 2021 Aug - current
+    time: 2021 Aug - 2021 Dec
     company: BrightCoder Academy - MagmaLabs
     details: |
       React Native mobile development training.
@@ -96,7 +96,7 @@ skills:
 
   toolset:
     - name: JavaScript
-      level: 40%
+      level: 60%
 
     - name: HTML
       level: 80%
@@ -113,16 +113,19 @@ skills:
     - name: MySQL
       level: 40%
 
-    - name: Git
-      level: 40%
+    - name: Git/Github
+      level: 60%
     
     - name: ReactJS
-      level: 40%
+      level: 60%
     
     - name: React Native
-      level: 20%
+      level: 60%
     
     - name: Angular
+      level: 20%
+    
+    - name: Docker
       level: 20%
 
 # NO MODIFICAR
